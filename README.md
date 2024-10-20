@@ -17,7 +17,7 @@ I am a passionate **Software Engineer (QA)** currently pursuing my BSc in Inform
 - **Online Ticket Reservation UI/UX**
 
 ## 🎓 Education:
-- **BSc in Information Technology** (SLIIT) - 2022-Present
+- **BSc in Information Technology** (SLIIT) - Present
 - **Higher National Diploma in Information Technology** (SLIIT) - 2022-2024
 
 ## 🎯 What I'm interested in:
